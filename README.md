@@ -1,6 +1,6 @@
 # relogio-digital
 
-Projeto de estudo com ferrametas do JavaScript .getHours, getMinutes, getSeconds e getElementById para pegar os campos correspondentes a cada casa numérica de horas,minutos e segundos.
+Projeto de estudo com ferrametas do JavaScript .getHours, .getMinutes, .getSeconds e .getElementById para pegar os campos correspondentes a cada casa numérica de horas,minutos e segundos.
 
 # visual
 
